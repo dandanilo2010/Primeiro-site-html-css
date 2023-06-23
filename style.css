@@ -1,0 +1,53 @@
+
+h1{
+    text-align: center;
+    border: solid gray;
+    background-color:black;
+    color: white
+}
+
+h2{
+    text-align: center;
+    border: solid gray;
+    background-color: black;
+    color: white;
+}
+
+.descricao{
+    margin: solid 25px;
+    border: solid;
+    padding: 25px;
+    color: white;
+
+}
+
+.link{
+    color: blue;
+    text-align: right;
+
+    
+}
+
+.nomes{
+    text-align: center;
+    color: white;
+    border: solid;
+}
+
+.corpo{
+    background-color: black;
+}
+
+.jogo{
+    color:white;    
+    text-align: center;
+}
+
+.foto{
+    background-size: 15px;
+}
+
+.carrocel{
+    text-align: center;
+    background-color: black;
+}
